@@ -1,10 +1,10 @@
 * {
     background-color: aquamarine;
-    color: blue;
 }
 body{
     border: 1px solid red;
     padding: 5px;
     margin: 5px;
     border-radius: 8px;
+    background-color: rgb(200, 211, 54);
 }
